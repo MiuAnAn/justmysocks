@@ -49,7 +49,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td>100 GB /月</td>
 <td>$2.88 / 月</td>
 <td>最多3个设备同时在线(当前断货)</td>
-<td><a rel="nofollow" href="https://lihi1.com/vbBxA">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks.net/members/aff.php?aff=11523">立即购买</a></td>
 </tr>
 <tr>
 <td>Just My Socks 500</td>
@@ -57,7 +57,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td>500 GB / 月</td>
 <td>$5.88 / 月</td>
 <td>最多5个设备同时在线</td>
-<td><a rel="nofollow" href="https://lihi1.com/cEsnp">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks.net/members/aff.php?aff=11523">立即购买</a></td>
 </tr>
 <tr>
 <td>Just My Socks 1000</td>
@@ -65,7 +65,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td>1TB / 月</td>
 <td>$9.88 / 月</td>
 <td>不限制设备数量</td>
-<td><a rel="nofollow" href="https://lihi1.com/l28hA">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks.net/members/aff.php?aff=11523">立即购买</a></td>
 </tr>
 <tr>
 <td>Just My Socks 5000</td>
@@ -73,7 +73,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td>5TB / 月</td>
 <td>$48.99 / 月</td>
 <td>不限制设备数量</td>
-<td><a rel="nofollow" href="https://lihi1.com/Tov44">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks.net/members/aff.php?aff=11523">立即购买</a></td>
 </tr>
 </tbody>
 </table>
